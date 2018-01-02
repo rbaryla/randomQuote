@@ -4,4 +4,5 @@ export interface ICounter {
 
 export interface IQuote {
     quote: string;
+    author: string;
 }
